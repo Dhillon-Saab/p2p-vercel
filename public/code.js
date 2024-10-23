@@ -1,3 +1,6 @@
+import { io } from "../server";
+
+
 let receiverId;
 const socket = io();
 
